@@ -1,0 +1,6 @@
+{
+  "name": "Product Graph Builder",
+  "description": "An interactive workspace to design, visualize, and orchestrate product management graphs node by node using the Functional Skeleton and Data Scaffolds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
